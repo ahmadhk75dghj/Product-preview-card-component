@@ -1,0 +1,16 @@
+section{
+    max-width: 650px;
+    margin: 30px auto;
+    display: flex;
+    margin-top: 100px;
+}
+.up{
+    width: 50%;
+    height: 450px;
+    background-image: url(images/lap.jpg);
+}
+.down{
+    width: 50%;
+    height: 450px;
+    padding: 45px;
+}
